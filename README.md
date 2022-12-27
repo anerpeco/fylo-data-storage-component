@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/anerpeco/fylo-data-storage-component]
+- Live Site URL: [https://fylo-data-storage-component-anerpeco.vercel.app/]
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [anerpeco](https://www.your-site.com)
+- Website - [anerpeco](https://github.com/anerpeco)
 - Frontend Mentor - [@anerpeco](https://www.frontendmentor.io/profile/anerpeco)
